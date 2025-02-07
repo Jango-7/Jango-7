@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jango-7
 - 👀 I’m interested in new lenguages of programming.
 - 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate any Data project.
+- 💞️ I’m looking to collaborate in any Data project.
 - 📫 How to reach me: IG @jhoanngo
 
 <!---
